@@ -1,0 +1,2 @@
+praw==3.1.0
+prawoauth2==0.1.5
