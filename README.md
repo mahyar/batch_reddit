@@ -1,7 +1,8 @@
 This is my ugly, hacked up script that lets you download a set of user resources 
 (comments, submissions, etc) from a reddit user and save it to a json file. You can also delete those resources from reddit with this script if your logged in as them.
 
-Go see how to setup a reddit app with praw / prawoauth2
+Go see how to setup a reddit app with praw / prawoauth2.   I would set this up as a personal script.
+Or see https://www.reddit.com/prefs/apps/
 
 **LIMITATIONS:** 
 

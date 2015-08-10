@@ -17,8 +17,8 @@ scopes         = ['identity', 'read', 'privatemessages', 'edit']
 #you probably want to put this in a seperate file you from keyfile import * 
 #keys / users
 key_set = {}
-app_key = "zMWc9bcUtQ2Y7g"
-app_secret = "QJJqqJcdUCZskUwtWKi7kWWOmN4"
+app_key = "zMWc9bcUtQ2Y7g" #note this is a deleted app for example purposes
+app_secret = "QJJqqJcdUCZskUwtWKi7kWWOmN4" #note this is a deleted app secret for example purposes
 refresh_token = ""
 access_token  = ""
 
